@@ -14,7 +14,7 @@ Minha trajetória começou em 2009 como estagiário e em 2010 iniciei oficialmen
 
 Sou entusiasta de tecnologias emergentes como **Impressão 3D, CNC, IoT e Inteligência Artificial**. 
 
-Ao longo dos anos, desenvolvi projetos como:
+Com o passar do tempo, tive a oportunidade de desenvolver projetos pessoais, como:
 - Uma **CNC Laser** 
 - Uma **impressora 3D**
 - Um **sistema de gestão**
