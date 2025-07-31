@@ -50,14 +50,6 @@ Acredito no poder da **educação, do código e da colaboração** para transfor
 
 ---
 
-### 🔥 Status de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Petinelson&theme=dracula" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Contato e redes
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
