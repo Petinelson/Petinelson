@@ -67,9 +67,9 @@ Acredito no poder da **educação, do código e da colaboração** para transfor
 
 ---
 
-### 📚 Repositórios em destaque
+### 📚 Sobre os Repositórios
 
-Confira alguns dos meus projetos aqui no GitHub — desde materiais didáticos até ferramentas e scripts para uso prático. Fique à vontade para colaborar, utilizar ou adaptar!
+Confira alguns dos meus projetos aqui no GitHub, desde materiais didáticos até ferramentas e scripts para uso prático. Fique à vontade para colaborar, utilizar ou adaptar!
 
 ---
 
