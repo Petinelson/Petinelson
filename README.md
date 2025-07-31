@@ -77,6 +77,15 @@ Confira alguns dos meus projetos aqui no GitHub, desde materiais didáticos até
 
 Além da tecnologia, também sou praticante de **origami**, acredito que dobrar papel e escrever código têm algo em comum: **a beleza da lógica e da paciência**.
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petinelson/Petinelson/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Petinelson/Petinelson/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Petinelson/Petinelson/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
 <p align="center">
   <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/dragao.png" alt="Dragao" width="200" />
 </p>
