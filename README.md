@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Petinelson 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Instrutor+de+Formação+Profissional+no+SENAI;Apaixonado+por+Tecnologia+e+Educação;Entusiasta+em+IA%2C+IoT%2C+e+Automação" alt="Typing SVG" />
+  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/eu.png" alt="Eu" />
 </p>
 
 ---
@@ -21,6 +21,11 @@ Ao longo dos anos, desenvolvi projetos como:
 
 Acredito no poder da **educação, do código e da colaboração** para transformar realidades. Por isso, compartilho projetos e conteúdos aqui no GitHub para contribuir com a formação de novos profissionais e entusiastas da área.
 
+<p align="center">
+  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/dragao.png" alt="Dragao" />
+</p>
+
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas que uso
@@ -38,6 +43,7 @@ Acredito no poder da **educação, do código e da colaboração** para transfor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg" alt="Construct" width="40" height="40"/>
 </p>
 
 ---
@@ -55,7 +61,7 @@ Acredito no poder da **educação, do código e da colaboração** para transfor
 
 ### 🌐 Contato e redes
 
-- 💼 [LinkedIn:](https://www.linkedin.com/in/daniel-petinice/)
+- 💼 LinkdIn: [in/daniel-petinice](https://www.linkedin.com/in/daniel-petinice/)
 - 📧 Email: daniel.petinice@gmail.com
 
 ---
