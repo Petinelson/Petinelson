@@ -21,11 +21,6 @@ Com o passar do tempo, tive a oportunidade de desenvolver projetos pessoais, com
 
 Acredito no poder da **educação, do código e da colaboração** para transformar realidades. Por isso, compartilho projetos e conteúdos aqui no GitHub para contribuir com a formação de novos profissionais e entusiastas da área.
 
-<p align="center">
-  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/dragao.png" alt="Dragao" width="200" />
-</p>
-
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas que uso
@@ -81,6 +76,10 @@ Confira alguns dos meus projetos aqui no GitHub — desde materiais didáticos a
 ### 💡 Curiosidade
 
 Além da tecnologia, também sou praticante de **origami**, acredito que dobrar papel e escrever código têm algo em comum: **a beleza da lógica e da paciência**.
+
+<p align="center">
+  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/dragao.png" alt="Dragao" width="200" />
+</p>
 
 ---
 
