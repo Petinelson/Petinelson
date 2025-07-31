@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou o Petinelson 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/eu.png" alt="Eu" />
+  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/eu.png" alt="Eu" width="200"/>
 </p>
 
 ---
 
 ### 👨‍🏫 Sobre mim
 
-Instrutor de Formação Profissional no **SENAI**, com cerca de **15 anos de experiência na área de Tecnologia da Informação**, atuando especialmente no **ensino de Desenvolvimento de Sistemas**.
+Instrutor de Formação Profissional no **SENAI**, com **alguns anos de experiência na área de Tecnologia da Informação**, atuando especialmente no **ensino de Desenvolvimento de Sistemas**.
 
 Minha trajetória começou em 2009 como estagiário e em 2010 iniciei oficialmente minha jornada como docente. Desde então, venho desenvolvendo e compartilhando **conhecimentos técnicos em hardware, programação, bancos de dados, infraestrutura e automação**, tanto dentro quanto fora da sala de aula.
 
@@ -22,7 +22,7 @@ Ao longo dos anos, desenvolvi projetos como:
 Acredito no poder da **educação, do código e da colaboração** para transformar realidades. Por isso, compartilho projetos e conteúdos aqui no GitHub para contribuir com a formação de novos profissionais e entusiastas da área.
 
 <p align="center">
-  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/dragao.png" alt="Dragao" />
+  <img src="https://github.com/Petinelson/Petinelson/blob/main/assets/dragao.png" alt="Dragao" width="200" />
 </p>
 
 
