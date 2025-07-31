@@ -55,7 +55,7 @@ Acredito no poder da **educação, do código e da colaboração** para transfor
 
 ### 🌐 Contato e redes
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 💼 [LinkedIn:](https://www.linkedin.com/in/daniel-petinice/)
 - 📧 Email: daniel.petinice@gmail.com
 
 ---
